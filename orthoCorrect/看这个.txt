@@ -1,2 +1,2 @@
 运行orthoCorrect.m即可。只是个程序草稿，orthoCorrect.m最后的结果明显有问题，需要修改。
-运行前先把  N56E159.tif   N56E160.tif   N56E161.tif  N57E159.tif  N57E160.tif  N57E161.tif   srcsar.tif考到当前文件夹
+运行前先把  N56E159.tif   N56E160.tif   N56E161.tif  N57E159.tif  N57E160.tif  N57E161.tif   srcsar.tif 拷贝到当前文件夹
